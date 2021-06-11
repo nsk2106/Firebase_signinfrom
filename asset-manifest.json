@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nsk2106/Firebase_signinfrom/static/css/main.b352ebf7.chunk.css",
+    "main.js": "/nsk2106/Firebase_signinfrom/static/js/main.8a057486.chunk.js",
+    "main.js.map": "/nsk2106/Firebase_signinfrom/static/js/main.8a057486.chunk.js.map",
+    "runtime-main.js": "/nsk2106/Firebase_signinfrom/static/js/runtime-main.40498f7f.js",
+    "runtime-main.js.map": "/nsk2106/Firebase_signinfrom/static/js/runtime-main.40498f7f.js.map",
+    "static/js/2.0f46abf8.chunk.js": "/nsk2106/Firebase_signinfrom/static/js/2.0f46abf8.chunk.js",
+    "static/js/2.0f46abf8.chunk.js.map": "/nsk2106/Firebase_signinfrom/static/js/2.0f46abf8.chunk.js.map",
+    "index.html": "/nsk2106/Firebase_signinfrom/index.html",
+    "static/css/main.b352ebf7.chunk.css.map": "/nsk2106/Firebase_signinfrom/static/css/main.b352ebf7.chunk.css.map",
+    "static/js/2.0f46abf8.chunk.js.LICENSE.txt": "/nsk2106/Firebase_signinfrom/static/js/2.0f46abf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40498f7f.js",
+    "static/js/2.0f46abf8.chunk.js",
+    "static/css/main.b352ebf7.chunk.css",
+    "static/js/main.8a057486.chunk.js"
+  ]
+}
